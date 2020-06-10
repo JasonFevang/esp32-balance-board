@@ -1,0 +1,3 @@
+[submodule "components/esp32-discord-webhook-interface"]
+	path = components/esp32-discord-webhook-interface
+	url = git@github.com:JasonFevang/esp32-discord-webhook-interface.git
